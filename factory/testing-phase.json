@@ -1,0 +1,9 @@
+{
+	"name": "testing-phase",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a52cca9-da64-4f7e-a2c2-e8ccfcb0d91d",
+		"tenantId": "42ce94cf-c8c5-4aa3-a75f-bced38e34883"
+	}
+}
